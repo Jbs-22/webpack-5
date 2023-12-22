@@ -1,0 +1,12 @@
+.recipe {
+  text-align: left;
+}
+.recipe h3 {
+  color: #348612;
+}
+button {
+  padding: 5px;
+}
+#last-btn {
+  margin-left: 10px;
+}
